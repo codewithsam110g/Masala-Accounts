@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "765986853396",
+    "firebase_url": "https://masala-accounts-default-rtdb.firebaseio.com",
+    "project_id": "masala-accounts",
+    "storage_bucket": "masala-accounts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765986853396:android:2e6e0f71db539ac0f98d01",
+        "android_client_info": {
+          "package_name": "com.codewithsam.masalaaccounts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765986853396-2a8m66bc2uf17h1tn25g0s4qtn327g9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codewithsam.masalaaccounts",
+            "certificate_hash": "0164d95a0db3a09c00708d10947cfa9728335b2b"
+          }
+        },
+        {
+          "client_id": "765986853396-iu6vv4vgcq00mmnhhr6kmj692hcadvio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuyFSSettIUb6u_Jg8A8WBWkBeC9dzZtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765986853396-iu6vv4vgcq00mmnhhr6kmj692hcadvio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
